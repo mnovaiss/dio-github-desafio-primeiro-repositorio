@@ -1,0 +1,2 @@
+link para download da Git: https://git-scm.com/downloads
+GitBash é um terminal 
